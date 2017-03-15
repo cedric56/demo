@@ -1,0 +1,14 @@
+#tableau
+{
+    border:1px solid black;
+    border-collapse: collapse;
+}
+#personnage1
+{
+    float: left;
+}
+
+#droits
+{
+    float: bottom;
+}
