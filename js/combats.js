@@ -15,6 +15,8 @@ function proposerAction(attaquant, victime)
     }
 }
 
+//Cette méthode définit les actions propres aux joueurs
+//soit attaque soit défense
 function combat(personnage)
 {
     var attaquant = personnages.find(function(pers)
